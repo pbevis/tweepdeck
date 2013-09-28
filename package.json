@@ -1,0 +1,16 @@
+{
+  "name": "NodeDemo",
+  "description": "A demo app illustrating the usage of node, express, passport and OAuth.",
+  "version": "0.0.1",
+  "author": "Paul Bevis <pbevis@hotmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbevis/node-demo.git"
+  },
+  "dependencies": {
+    "express": "latest",
+    "passport": "latest",
+    "http": "latest",
+    "passport-twitter": "latest"
+  }
+}
